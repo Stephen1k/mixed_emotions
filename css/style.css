@@ -64,6 +64,7 @@ body{
     text-align: center;
   }
 
-  .messages{
-    display:none;
+  .messages p{
+    font-family: 'Waterfall', cursive;
+    font-size: 4rem;
   }
